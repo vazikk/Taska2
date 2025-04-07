@@ -9,8 +9,8 @@
 Потом создал два юзера ```Dmitrij``` и ```jon``` <br>
 ![Image alt](https://github.com/vazikk/Taska2/blob/main/image2.png)
 
-Скопировал публичный ключ в ```/home/Dmitrij/.ssh/authorized_keys```
-После создал пароль для ```Dmitrij``` и для ```jon```
+Скопировал публичный ключ в ```/home/Dmitrij/.ssh/authorized_keys```<br>
+После создал пароль для ```Dmitrij``` и для ```jon```<br>
 Проверил вход на этих юзеров
 
 
